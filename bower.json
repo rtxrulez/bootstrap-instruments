@@ -1,0 +1,21 @@
+{
+  "name": "awesome_project",
+  "description": "Your awesome project description",
+  "main": "gulpfile.js",
+  "authors": [
+    "vafarulez <vafarulez@ya.ru>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "resources/assets/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "v4.0.0-alpha.2"
+  }
+}
